@@ -1,0 +1,7 @@
+{
+  "appId": "com.saidiwa.driver.app",
+  "appName": "saidiwa driver app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

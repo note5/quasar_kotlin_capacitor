@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "296355448587",
+    "project_id": "saidiwa-messaging-test",
+    "storage_bucket": "saidiwa-messaging-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296355448587:android:cf198a6e994ca5674a040e",
+        "android_client_info": {
+          "package_name": "com.saidiwa.driver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296355448587-apl18bp48dronbd114pj3qijf56oaiue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0fUOY5GkEqsID_n_tUu7YKnTQxz1g48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296355448587-apl18bp48dronbd114pj3qijf56oaiue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296355448587:android:d812e743214725324a040e",
+        "android_client_info": {
+          "package_name": "com.saidiwa.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296355448587-apl18bp48dronbd114pj3qijf56oaiue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0fUOY5GkEqsID_n_tUu7YKnTQxz1g48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296355448587-apl18bp48dronbd114pj3qijf56oaiue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296355448587:android:8a7b5b684b89b64d4a040e",
+        "android_client_info": {
+          "package_name": "com.saidiwa.rider.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296355448587-apl18bp48dronbd114pj3qijf56oaiue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0fUOY5GkEqsID_n_tUu7YKnTQxz1g48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296355448587-apl18bp48dronbd114pj3qijf56oaiue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

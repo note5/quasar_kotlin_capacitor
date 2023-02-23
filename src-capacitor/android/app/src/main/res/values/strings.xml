@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">saidiwa driver app</string>
+    <string name="title_activity_main">saidiwa driver app</string>
+    <string name="package_name">com.saidiwa.driver.app</string>
+    <string name="custom_url_scheme">com.saidiwa.driver.app</string>
+</resources>
